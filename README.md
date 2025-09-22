@@ -1,3 +1,3 @@
 # app de mobilidade
 
-Esse è meu primeiro app desenvolvido totalmente por mim
+este é o primeiro app desenvolvido totalmente por mim.
