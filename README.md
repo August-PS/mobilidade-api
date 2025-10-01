@@ -76,7 +76,7 @@ app-mobilidade/
 
 Clonar o repositório
 
-git clone https://github.com/Augosto-PS/mobilidade-api.git
+git clone [https://github.com/Augosto-PS/mobilidade-api.git](https://github.com/August-PS/mobilidade-api)
 
 Rodar o backend (FastAPI)
 Criar o ambiente virtual:
