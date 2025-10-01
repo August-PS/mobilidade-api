@@ -80,9 +80,11 @@ git clone [https://github.com/Augosto-PS/mobilidade-api.git](https://github.com/
 
 Rodar o backend (FastAPI)
 Criar o ambiente virtual:
-
 python -m venv venv
 source venv/Scripts/activate   # Windows
+
+ou
+
 source venv/bin/activate       # Linux/Mac
 
 Instalar dependências: 
